@@ -1,0 +1,16 @@
+# starting a css file
+
+with open('style.css') as f:
+    st.markdown(f'<style>{f.read()}</style>',unsafe_allow_html=True)
+    
+# sidebar
+div.css-1jdrypv.e1akgbir11
+
+# main
+div.css-uf99v8.e1g8pov65
+
+# RSS Feed column
+div.css-1bs97qc.esravye0
+
+# RSS feed table
+div.css-5rimss.eqr7zpz4
